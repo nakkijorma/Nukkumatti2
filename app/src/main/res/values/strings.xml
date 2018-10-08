@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nukkumatti</string>
+    <!--  Aloitusnäytön resurssit -->
+    <string name="aloitusOtsikko">Tervetuloa Nukkumattiin!</string>
+    <string name="aloitusTeksti">Sovellus mittaa unesi pituutta. Merkitse unimääräsi sovellukseen ja näet keskiarvon.</string>
+
+    <!-- Unimäärän syötön resurssit -->
+    <string name="unimaaraOtsikko">Valitse päivämäärä</string>
+    <string name="unimaaraTunnit">Syötä tunnit:</string>
+    <string name="unimaaraLaheta">Tallenna</string>
+    <string name="unimaaraVihje">Esim. 7,5</string>
+    <string name="kalenterinAlku">09/01/2018</string>
+    <string name="HistoriaKuvaus">Tarkastele unimääriä</string>
+    <string name="HistoriaOtsikko">Historia</string>
+    <!-- Tilastotietojen resurssit -->
+
+    <!-- Historiatietojen resurssit -->
+
+    <!-- Todo Testi - Poista valmiista  -->
+</resources>
